@@ -19,7 +19,7 @@
   "generic.hours": "{{count}} Horas",
   "generic.days": "{{count}} Dias",
   "generic.in-x-days": "En {{count}} dias",
-  "generic.tomorrow": "Maniana",
+  "generic.tomorrow": "Mañana",
   "generic.price": "{{price}}g",
   "generic.price-for-quality": "{{price}}g ({{quality}})",
   "generic.price-for-stack": "{{price}}g Por stack de {{count}}",
@@ -179,7 +179,7 @@
   "fruit-tree.next-fruit.too-young": "Demasiado joven para generar frutas",
   "fruit-tree.quality.now": "{{quality}} Ahora",
   "fruit-tree.quality.on-date": "{{quality}} En {{date}}",
-  "fruit-tree.quality.on-date-next-year": "{{quality}} en {{date}} El siguiente anio",
+  "fruit-tree.quality.on-date-next-year": "{{quality}} en {{date}} El siguiente año",
   "fruit-tree.season.summary": "{{season}} (O en cualquier momento en el invernadero)",
 
   // crop lookup labels
@@ -244,7 +244,7 @@
   "monster.adventure-guild.progress": "Matados {{count}} de {{requiredCount}}",
 
   // NPC lookup labels
-  "npc.birthday": "Cumpleanos",
+  "npc.birthday": "Cumpleaños",
   "npc.can-romance": "Se puede casar",
   "npc.friendship": "Amistad",
   "npc.talked-today": "Se le hablo hoy",
